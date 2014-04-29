@@ -1,19 +1,30 @@
 {
-	"title": "DAUX.IO",
-	"tagline": "The Easiest Way To Document Your Project",
-	"docs_path": "docs",
+	"title": "PACSETI LMS v4",
+	"tagline": "",
+	"docs_path": "../pacseti_docs",
 	"image": "img/app.png",
-	"theme": "navy",
-	"template":"default",
-	"toggle_code": true,
+	"theme": "custom",
+	"colors": {
+		"sidebar-background": "#EEEEEE",
+        "sidebar-hover": "#CEECF5",
+        "lines": "#DDDDDD",
+        "dark": "#4682B4",
+        "light": "#FFFFFF",
+        "links": "#4A9E8E",
+        "text": "#333333",
+        "syntax-string": "#447DB8",
+        "syntax-comment": "#84989b",
+        "syntax-number": "#2f9b92",
+        "syntax-label": "#840d7a"
+        },
+    "toggle_code": true,
 	"date_modified": true,
-	"repo": "justinwalsh/daux.io",
-	"twitter": ["justin_walsh", "todaymade"],
-	"google_analytics": "UA-12653604-10",
+	"repo": "",
+	"twitter": [],
+	"google_analytics": "",
 	"links": {
-		"Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
-		"GitHub Repo": "https://github.com/justinwalsh/daux.io",
-		"Help/Support/Bugs": "https://github.com/justinwalsh/daux.io/issues",
-		"Made by Todaymade": "http://todaymade.com"
-	}
+		"PACSETI LMS": "https://www.pacseti.outreach.psu.edu",
+		"User Guide": "https://www.pacseti.outreach.psu.edu/user_guide"
+	},
+	"float": true
 }
