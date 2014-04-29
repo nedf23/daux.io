@@ -21,6 +21,10 @@
 	"date_modified": true,
 	"repo": "",
 	"twitter": [],
+	"ignore": {
+		"files": [],
+		"folders": [".git"]
+		},
 	"google_analytics": "",
 	"links": {
 		"PACSETI LMS": "https://www.pacseti.outreach.psu.edu",
